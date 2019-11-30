@@ -1,0 +1,11 @@
+C:\Users\юлия\source\repos\Addition\Addition\bin\Debug\netcoreapp3.0\Addition.exe
+C:\Users\юлия\source\repos\Addition\Addition\bin\Debug\netcoreapp3.0\Addition.deps.json
+C:\Users\юлия\source\repos\Addition\Addition\bin\Debug\netcoreapp3.0\Addition.runtimeconfig.json
+C:\Users\юлия\source\repos\Addition\Addition\bin\Debug\netcoreapp3.0\Addition.runtimeconfig.dev.json
+C:\Users\юлия\source\repos\Addition\Addition\bin\Debug\netcoreapp3.0\Addition.dll
+C:\Users\юлия\source\repos\Addition\Addition\bin\Debug\netcoreapp3.0\Addition.pdb
+C:\Users\юлия\source\repos\Addition\Addition\obj\Debug\netcoreapp3.0\Addition.AssemblyInfoInputs.cache
+C:\Users\юлия\source\repos\Addition\Addition\obj\Debug\netcoreapp3.0\Addition.AssemblyInfo.cs
+C:\Users\юлия\source\repos\Addition\Addition\obj\Debug\netcoreapp3.0\Addition.dll
+C:\Users\юлия\source\repos\Addition\Addition\obj\Debug\netcoreapp3.0\Addition.pdb
+C:\Users\юлия\source\repos\Addition\Addition\obj\Debug\netcoreapp3.0\Addition.csprojAssemblyReference.cache
